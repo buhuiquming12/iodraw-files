@@ -112,6 +112,9 @@
         <mxCell id="eJMkU2BnuT4THu4oxbbB-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.487;entryY=0.032;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="eJMkU2BnuT4THu4oxbbB-17" target="eJMkU2BnuT4THu4oxbbB-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="eJMkU2BnuT4THu4oxbbB-48" value="等待管理员处理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="190" y="705" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
