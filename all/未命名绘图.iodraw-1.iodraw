@@ -26,7 +26,12 @@
           <mxGeometry x="340" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-6" target="j7FZIiN-Wry2wb3FIO70-24">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="230" y="950" />
+              <mxPoint x="380" y="950" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;显示读者错误信息&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="170" y="525" width="120" height="60" as="geometry" />
