@@ -34,7 +34,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;显示输入错误信息&lt;/font&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="525" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="340" width="60" height="30" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-9" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ISBN&lt;/span&gt;是否已存在?&lt;/div&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="490" y="505" width="80" height="80" as="geometry" />
+          <mxGeometry x="490" y="570" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-11" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="340" width="60" height="30" as="geometry" />
@@ -60,7 +60,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;显示&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ISBN&lt;/span&gt;重复错误&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="340" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-14" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="380" y="525" width="60" height="30" as="geometry" />
@@ -71,7 +71,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-15" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;将新图书信息存入图书表&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="700" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="720" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-17" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="600" y="525" width="60" height="30" as="geometry" />
@@ -83,7 +83,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-28" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;初始化副本计数器 &lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;i&lt;/span&gt; = 1&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="600" y="870" width="120" height="80" as="geometry" />
+          <mxGeometry x="600" y="910" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-29" target="j7FZIiN-Wry2wb3FIO70-31">
           <mxGeometry relative="1" as="geometry" />
