@@ -33,6 +33,9 @@
         <mxCell id="j7FZIiN-Wry2wb3FIO70-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-49" target="j7FZIiN-Wry2wb3FIO70-51">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-49" target="j7FZIiN-Wry2wb3FIO70-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-49" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;是否查询到图书记录?&lt;/font&gt;&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="540" width="80" height="80" as="geometry" />
         </mxCell>
@@ -42,7 +45,7 @@
         <mxCell id="j7FZIiN-Wry2wb3FIO70-53" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="554" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-54" value="" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-54" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;准备显示查询结果&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
