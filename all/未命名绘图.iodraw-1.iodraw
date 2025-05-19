@@ -67,6 +67,9 @@
         <mxCell id="j7FZIiN-Wry2wb3FIO70-20" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;更新读者当前借阅数量&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="1030" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-22" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="1180" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
