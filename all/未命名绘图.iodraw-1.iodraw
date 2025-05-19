@@ -10,20 +10,13 @@
         <mxCell id="j7FZIiN-Wry2wb3FIO70-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-2" target="j7FZIiN-Wry2wb3FIO70-44">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="300" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;输入新图书信息&lt;span style=&quot;font-weight: bold;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: rgb(170, 133, 0);&quot;&gt;ISBN&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: rgb(170, 133, 0);&quot;&gt; 书名&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: rgb(170, 133, 0);&quot;&gt; 作者等&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;)&lt;/span&gt;,初始副本数量&quot;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px;&quot;&gt;输入书名关键词&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="320" y="200" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-8" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="230" y="340" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-11" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="470" y="340" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-44" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;根据关键词构造查询语句&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="320" y="300" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
