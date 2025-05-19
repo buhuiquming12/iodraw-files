@@ -45,13 +45,16 @@
         <mxCell id="j7FZIiN-Wry2wb3FIO70-53" value="否" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="554" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-58" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-54" target="j7FZIiN-Wry2wb3FIO70-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-54" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;准备显示查询结果&lt;/font&gt;&lt;/div&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="650" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-56" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="554" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="j7FZIiN-Wry2wb3FIO70-57" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-57" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;还有未显示的&amp;lt;&lt;span style=&quot;color: #a22889;&quot;&gt;br&lt;/span&gt;/&amp;gt;图书记录吗?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="800" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
