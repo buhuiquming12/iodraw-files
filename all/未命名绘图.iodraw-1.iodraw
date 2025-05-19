@@ -54,6 +54,9 @@
         <mxCell id="j7FZIiN-Wry2wb3FIO70-56" value="是" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="470" y="554" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="j7FZIiN-Wry2wb3FIO70-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="j7FZIiN-Wry2wb3FIO70-57" target="j7FZIiN-Wry2wb3FIO70-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="j7FZIiN-Wry2wb3FIO70-57" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;还有未显示的图书记录吗?&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="460" y="800" width="80" height="80" as="geometry" />
         </mxCell>
