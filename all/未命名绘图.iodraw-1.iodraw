@@ -52,6 +52,9 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-16" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="300" y="750" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-17" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
