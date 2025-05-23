@@ -19,7 +19,7 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-4" value="乘车信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="220" y="190" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ObtdOasDnw9rbl3gmV-m-6" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-6" value="火车票" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="230" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
