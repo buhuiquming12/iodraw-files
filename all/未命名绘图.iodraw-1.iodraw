@@ -53,10 +53,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-16" value="列车信息库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="750" width="120" height="50" as="geometry" />
+          <mxGeometry x="295" y="750" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-17" value="D1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="300" y="750" width="30" height="50" as="geometry" />
+          <mxGeometry x="295" y="750" width="30" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-20" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="720" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
