@@ -151,6 +151,12 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-53" value="查询请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="460" y="1090" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-54" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.636;entryY=0.962;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="ObtdOasDnw9rbl3gmV-m-49" target="ObtdOasDnw9rbl3gmV-m-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-55" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1100" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
