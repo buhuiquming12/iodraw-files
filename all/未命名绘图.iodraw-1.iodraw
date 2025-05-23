@@ -189,6 +189,9 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-65" value="订票数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="530" y="1270" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObtdOasDnw9rbl3gmV-m-66" target="ObtdOasDnw9rbl3gmV-m-69">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-66" value="2.2&lt;div&gt;数据统计&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="1340" width="80" height="80" as="geometry" />
         </mxCell>
@@ -197,6 +200,9 @@
         </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-69" value="2.3&lt;div&gt;报告生成&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="360" y="1340" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-71" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1360" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
