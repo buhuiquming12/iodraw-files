@@ -103,7 +103,7 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-35" value="列车运行报告汇总" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="630" y="800" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ObtdOasDnw9rbl3gmV-m-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ObtdOasDnw9rbl3gmV-m-36" target="ObtdOasDnw9rbl3gmV-m-37">
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="ObtdOasDnw9rbl3gmV-m-39" target="ObtdOasDnw9rbl3gmV-m-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-36" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;旅客&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
