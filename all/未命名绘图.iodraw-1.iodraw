@@ -122,7 +122,7 @@
           <mxGeometry x="490" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-42" value="格式化查询条件" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="400" y="1020" width="60" height="30" as="geometry" />
+          <mxGeometry x="390" y="1020" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
