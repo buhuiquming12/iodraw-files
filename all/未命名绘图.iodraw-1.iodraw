@@ -147,6 +147,9 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-49" value="列车信息库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1160" width="120" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObtdOasDnw9rbl3gmV-m-50" target="ObtdOasDnw9rbl3gmV-m-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-50" value="D1" style="shape=partialRectangle;whiteSpace=wrap;html=1;bottom=0;top=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="480" y="1160" width="30" height="50" as="geometry" />
         </mxCell>
