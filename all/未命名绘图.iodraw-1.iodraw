@@ -177,6 +177,9 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-61" value="2.1&lt;div&gt;数据收集&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="190" y="1210" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-63" value="列车运行数据" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="310" y="1150" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
