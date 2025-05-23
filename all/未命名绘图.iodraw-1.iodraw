@@ -136,7 +136,7 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-45" value="可用列车信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="570" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="ObtdOasDnw9rbl3gmV-m-48" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-48" value="火车票" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="930" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
