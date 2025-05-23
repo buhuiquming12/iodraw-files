@@ -118,6 +118,9 @@
         <mxCell id="ObtdOasDnw9rbl3gmV-m-39" value="乘车信息" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="180" y="990" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="ObtdOasDnw9rbl3gmV-m-40" target="ObtdOasDnw9rbl3gmV-m-43">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-40" value="1.2&lt;div&gt;列车查询&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="490" y="1000" width="80" height="80" as="geometry" />
         </mxCell>
@@ -126,6 +129,9 @@
         </mxCell>
         <mxCell id="ObtdOasDnw9rbl3gmV-m-43" value="1.3&lt;div&gt;车票生成&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="600" y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ObtdOasDnw9rbl3gmV-m-45" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="570" y="1020" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
