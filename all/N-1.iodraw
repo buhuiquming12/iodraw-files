@@ -83,8 +83,8 @@
         <mxCell id="Jy-3b62cvL6SXosjBcfN-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 80%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;更新读者&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 80%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;当前借&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 80%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;阅数量&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="390" y="530" width="30" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Jy-3b62cvL6SXosjBcfN-3" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="380" y="610" width="60" height="120" as="geometry" />
+        <mxCell id="Jy-3b62cvL6SXosjBcfN-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px; white-space: pre;&quot;&gt;显示借阅成功信息及应还日期&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+          <mxGeometry x="390" y="580" width="30" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
