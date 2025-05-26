@@ -81,7 +81,7 @@
           <mxGeometry x="420" y="550" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 150%; white-space: pre; font-size: 5px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 150%;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;DO-WHILE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 150%;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;i&lt;/span&gt; &amp;lt;= &lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 150%;&quot;&gt;初始副本数量&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="420" y="500" width="30" height="50" as="geometry" />
+          <mxGeometry x="420" y="500" width="60" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-5" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
