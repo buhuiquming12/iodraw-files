@@ -83,12 +83,6 @@
         <mxCell id="Jy-3b62cvL6SXosjBcfN-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 150%; white-space: pre; font-size: 5px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 150%;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;DO-WHILE&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 150%;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;i&lt;/span&gt; &amp;lt;= &lt;/div&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 150%;&quot;&gt;初始副本数量&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="500" width="60" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="Jy-3b62cvL6SXosjBcfN-5" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1">
-          <mxGeometry width="60" height="40" relative="1" as="geometry">
-            <mxPoint x="420" y="722" as="sourcePoint" />
-            <mxPoint x="494.74" y="680" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;创建图书副本&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;记录 &lt;span style=&quot;font-weight: bold;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt;关联&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt;ISBN&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt; 状态“在馆”&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="420" y="600" width="30" height="60" as="geometry" />
         </mxCell>
@@ -115,6 +109,9 @@
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 90%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 6px;&quot;&gt;显示新增&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 90%; white-space: pre;&quot;&gt;&lt;font face=&quot;bIkD1Yk5t5bH83ZUPqDr&quot; style=&quot;font-size: 6px;&quot;&gt;图书成功&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="450" y="550" width="30" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy-3b62cvL6SXosjBcfN-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
+          <mxGeometry x="550" y="630" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
