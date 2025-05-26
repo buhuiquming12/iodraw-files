@@ -47,7 +47,7 @@
             <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ozjqj6TBSS_1r4b6GPu-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre; font-size: 7px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 19px;&quot;&gt;&lt;span style=&quot;color: #a22889;&quot;&gt;ISBN&lt;/span&gt;是否已存在?&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_ozjqj6TBSS_1r4b6GPu-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre; font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ISBN&lt;/span&gt;是否已存在?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="390" y="280" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.481;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="_ozjqj6TBSS_1r4b6GPu-20" target="_ozjqj6TBSS_1r4b6GPu-20" edge="1">
@@ -62,7 +62,7 @@
             <mxPoint x="410" y="280" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ozjqj6TBSS_1r4b6GPu-26" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_ozjqj6TBSS_1r4b6GPu-26" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="370" y="350" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-27" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
