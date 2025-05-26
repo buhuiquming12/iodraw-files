@@ -85,8 +85,13 @@
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-5" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1">
           <mxGeometry width="60" height="40" relative="1" as="geometry">
-            <mxPoint x="419.48" y="709.48" as="sourcePoint" />
-            <mxPoint x="479.48" y="669.48" as="targetPoint" />
+            <mxPoint x="420" y="721" as="sourcePoint" />
+            <mxPoint x="494.74" y="680" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="420" y="722" />
+              <mxPoint x="490" y="722" />
+              <mxPoint x="490" y="680" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-6" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;创建图书副本&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;记录 &lt;span style=&quot;font-weight: bold;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt;关联&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt;ISBN&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;,&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; line-height: 130%; white-space: pre; font-size: 5px;&quot;&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt; 状态“在馆”&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;)&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
