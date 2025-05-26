@@ -78,10 +78,16 @@
           <mxGeometry x="420" y="450" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-2" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 80%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;更新读者&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 80%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;当前借&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 80%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 7px;&quot;&gt;阅数量&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="420" y="530" width="30" height="50" as="geometry" />
+          <mxGeometry x="420" y="500" width="30" height="50" as="geometry" />
         </mxCell>
         <mxCell id="Jy-3b62cvL6SXosjBcfN-3" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 70%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 6px;&quot;&gt;显示借阅&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 70%; white-space: pre;&quot;&gt;&lt;font face=&quot;B966MRtK2GK0DRxkc0R5&quot; style=&quot;font-size: 6px;&quot;&gt;成功信息&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 70%; white-space: pre;&quot;&gt;&lt;font face=&quot;B966MRtK2GK0DRxkc0R5&quot; style=&quot;font-size: 6px;&quot;&gt;及应还日期&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="420" y="580" width="30" height="70" as="geometry" />
+          <mxGeometry x="420" y="550" width="30" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Jy-3b62cvL6SXosjBcfN-5" value="" style="shape=filledEdge;curved=0;rounded=0;fixDash=1;endArrow=none;strokeWidth=10;fillColor=#ffffff;edgeStyle=orthogonalEdgeStyle;html=1;" edge="1" parent="1">
+          <mxGeometry width="60" height="40" relative="1" as="geometry">
+            <mxPoint x="420" y="650" as="sourcePoint" />
+            <mxPoint x="480" y="610" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
