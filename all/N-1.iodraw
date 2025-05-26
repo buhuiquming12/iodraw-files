@@ -110,8 +110,8 @@
         <mxCell id="Jy-3b62cvL6SXosjBcfN-12" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 90%; white-space: pre;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 6px;&quot;&gt;显示新增&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 90%; white-space: pre;&quot;&gt;&lt;font face=&quot;bIkD1Yk5t5bH83ZUPqDr&quot; style=&quot;font-size: 6px;&quot;&gt;图书成功&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
           <mxGeometry x="450" y="550" width="30" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="Jy-3b62cvL6SXosjBcfN-13" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;right=0;top=0;bottom=0;fillColor=none;routingCenterX=-0.5;" vertex="1" parent="1">
-          <mxGeometry x="550" y="630" width="120" height="60" as="geometry" />
+        <mxCell id="Jy-3b62cvL6SXosjBcfN-14" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;top=0;bottom=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="540" y="630" width="20" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
