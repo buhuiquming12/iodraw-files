@@ -45,6 +45,9 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="364" y="390" as="sourcePoint" />
             <mxPoint x="414" y="340" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="439" y="370" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;准备显示查询结果&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
