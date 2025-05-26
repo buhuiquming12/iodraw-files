@@ -47,7 +47,7 @@
             <mxPoint x="414" y="340" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_ozjqj6TBSS_1r4b6GPu-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre; font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ISBN&lt;/span&gt;是否已存在?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_ozjqj6TBSS_1r4b6GPu-23" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre; font-size: 7px;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;准备显示查询结果&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="409" y="340" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-24" value="" style="endArrow=none;html=1;rounded=0;entryX=0.481;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;" parent="1" source="_ozjqj6TBSS_1r4b6GPu-26" target="_ozjqj6TBSS_1r4b6GPu-20" edge="1">
