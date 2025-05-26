@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="_ozjqj6TBSS_1r4b6GPu-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre; font-size: 10px;&quot;&gt;&lt;font style=&quot;font-size: 10px;&quot; face=&quot;Helvetica&quot;&gt;输入读者&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ID&lt;/span&gt;, 图书副本&lt;span style=&quot;color: rgb(162, 40, 137);&quot;&gt;ID&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="_ozjqj6TBSS_1r4b6GPu-1" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre; font-size: 10px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;输入新图书信息 &lt;span style=&quot;font-weight: bold;&quot;&gt;(&lt;/span&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt;ISBN&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;,&lt;/span&gt;&lt;span style=&quot;color: #aa8500;&quot;&gt; 书名等&lt;/span&gt;&lt;span style=&quot;font-weight: bold;&quot;&gt;)&lt;/span&gt;, 初始副本数量&lt;/div&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="330" y="140" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
