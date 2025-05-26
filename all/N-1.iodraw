@@ -29,7 +29,7 @@
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-9" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="404" y="290" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="_ozjqj6TBSS_1r4b6GPu-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 9px;&quot;&gt;输入信息是否有效?&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_ozjqj6TBSS_1r4b6GPu-10" value="&lt;div style=&quot;background-color: rgb(255, 255, 254); line-height: 19px; white-space: pre;&quot;&gt;&lt;div style=&quot;line-height: 19px;&quot;&gt;&lt;div style=&quot;font-family: Consolas, &amp;quot;Courier New&amp;quot;, monospace; font-size: 14px; line-height: 19px;&quot;&gt;是否查询到图书记录?&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="364" y="260" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="_ozjqj6TBSS_1r4b6GPu-19" value="" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" parent="1" vertex="1">
