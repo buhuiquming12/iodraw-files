@@ -127,6 +127,9 @@
         <mxCell id="JGkdWPGVMTuvKok6jzls-32" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="520" y="580" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="JGkdWPGVMTuvKok6jzls-33" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="560" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
