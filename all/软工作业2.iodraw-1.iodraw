@@ -172,7 +172,7 @@
         <mxCell id="JGkdWPGVMTuvKok6jzls-43" value="S" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="750" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JGkdWPGVMTuvKok6jzls-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="JGkdWPGVMTuvKok6jzls-44" value="a" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="850" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
