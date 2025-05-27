@@ -247,7 +247,7 @@
         <mxCell id="JGkdWPGVMTuvKok6jzls-61" value="F" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="340" y="1139" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="JGkdWPGVMTuvKok6jzls-62" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="JGkdWPGVMTuvKok6jzls-62" value="T" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="330" y="1200" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
