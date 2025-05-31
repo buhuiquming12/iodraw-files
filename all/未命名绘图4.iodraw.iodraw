@@ -70,6 +70,9 @@
         <mxCell id="hWi3SYfq_i9XSd-yM34b-17" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="88" y="820" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="hWi3SYfq_i9XSd-yM34b-18" value="供应商" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="73" y="780" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
