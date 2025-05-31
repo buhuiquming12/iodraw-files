@@ -72,10 +72,20 @@
             <mxPoint x="570" y="570" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MByl6eg0UQIrAsyCrei5-20" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="MByl6eg0UQIrAsyCrei5-20" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.342;exitY=1.01;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MByl6eg0UQIrAsyCrei5-15" target="MByl6eg0UQIrAsyCrei5-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="630" y="790" as="sourcePoint" />
             <mxPoint x="680" y="740" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MByl6eg0UQIrAsyCrei5-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="MByl6eg0UQIrAsyCrei5-18">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="620" as="sourcePoint" />
+            <mxPoint x="570" y="570" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="570" y="620" />
+              <mxPoint x="520" y="570" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
