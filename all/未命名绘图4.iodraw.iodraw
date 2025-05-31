@@ -19,6 +19,9 @@
         <mxCell id="hWi3SYfq_i9XSd-yM34b-5" value="学生" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="65" y="200" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="hWi3SYfq_i9XSd-yM34b-6" value="图书管理员" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="65" y="380" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
