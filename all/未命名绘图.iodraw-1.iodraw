@@ -78,24 +78,6 @@
             <mxPoint x="680" y="740" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MByl6eg0UQIrAsyCrei5-21" value="" style="curved=1;endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="MByl6eg0UQIrAsyCrei5-18" target="MByl6eg0UQIrAsyCrei5-5">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="604.69" y="810" as="sourcePoint" />
-            <mxPoint x="540.0033608925942" y="391.21259617536884" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="974.69" y="690" />
-              <mxPoint x="914.69" y="550" />
-              <mxPoint x="940" y="580" />
-              <mxPoint x="604.69" y="610" />
-              <mxPoint x="860" y="420" />
-              <mxPoint x="814.69" y="390" />
-              <mxPoint x="774.69" y="350" />
-              <mxPoint x="750" y="370" />
-              <mxPoint x="554.69" y="560" />
-              <mxPoint x="674.69" y="320" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
